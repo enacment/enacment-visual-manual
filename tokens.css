@@ -1,0 +1,25 @@
+/* Base aprobada por Nicolas (04-11-2026). Parámetros propuestos y variantes por medio en refinamiento bajo Ivy; ver tokens.json. */
+:root {
+  --principal: #3BB54A;
+  --principal-dark: #1D5B25;
+  --principal-deep: #0F3114;
+  --blue: #3B61AD;
+  --blue-dark: #182946;
+  --blue-green: #3D87A8;
+  --teal: #47BFB0;
+  --canvas: #F8F9FB;
+  --canvas-alt: #F4F5F8;
+  --surface: #FFFFFF;
+  --text: #222428;
+  --muted: #5E6166;
+  --border: #C9CDD6;
+  --warning: #F5B829;
+  --danger: #ED365C;
+  --font-sans: "IBM Plex Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+  --button-radius: 12px;
+  --field-radius: 8px;
+  --card-radius: 14px;
+  --gap: 24px;
+  --cover-gradient: linear-gradient(118deg, #182946 0%, #0F3114 58%, #1D5B25 100%);
+}
